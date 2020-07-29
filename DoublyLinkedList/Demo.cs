@@ -60,7 +60,7 @@ namespace DoublyLinkedList
                         list.InsertBefore(data, x);
                         break;
 
-
+                         
 
 
                 }
