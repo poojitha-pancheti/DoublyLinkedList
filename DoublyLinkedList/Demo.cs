@@ -59,7 +59,7 @@ namespace DoublyLinkedList
                         x = Convert.ToInt32(Console.ReadLine());
                         list.InsertBefore(data, x);
                         break;
-
+                         
                          
 
 
